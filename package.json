@@ -1,0 +1,19 @@
+{
+  "name": "dockerbuild",
+  "version": "1.0.0",
+  "description": "docker 学习",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoJuanStar/dockerbuild.git"
+  },
+  "author": "XiaoJuanStar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaoJuanStar/dockerbuild/issues"
+  },
+  "homepage": "https://github.com/XiaoJuanStar/dockerbuild#readme"
+}
